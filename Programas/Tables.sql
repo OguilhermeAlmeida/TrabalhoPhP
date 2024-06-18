@@ -1,5 +1,0 @@
-CREATE TABLE pecas_automotivas (
-    id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
-    nome VARCHAR(30) NOT NULL,
-    preco DECIMAL(10, 2) NOT NULL
-);
